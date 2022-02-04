@@ -19,5 +19,5 @@ https://www.researchgate.net/profile/Yuan-Yang-34.
 ## Contributors
 
 <a href="https://github.com/luffygogogo/TRUSS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Tencent/omi" />
+  <img src="http://bluebox.ippt.pan.pl/~ljank/img/lukasz_jankowski.jpg" />
 </a>
