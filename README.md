@@ -12,12 +12,10 @@ https://github.com/luffygogogo/TRUSS.
 
 The dataset and model files are huge. It is impossible to copy them here. If you really have interest in this report, please do not hesitate to ask me for more supports on ResearchGate:
 
-
-
-
-https://www.researchgate.net/profile/Yuan-Yang-34.
 ## Contributors
-
-<a href="https://github.com/luffygogogo/TRUSS/graphs/contributors">
+<a href="https://www.researchgate.net/profile/Yuan-Yang-34">
+  <img src="http://bluebox.ippt.pan.pl/~ljank/img/lukasz_jankowski.jpg" />
+</a>
+<a href="http://bluebox.ippt.pan.pl/~ljank/index.php?id=home.html">
   <img src="http://bluebox.ippt.pan.pl/~ljank/img/lukasz_jankowski.jpg" />
 </a>
